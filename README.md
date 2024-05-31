@@ -6,7 +6,6 @@ Our goal is to maintain a well-organized, scalable, and efficient monorepo that
 supports our diverse range of projects and technologies.
 
 ## Primary Languages and Frameworks
-
 At TechBD, we focus on the following primary languages and frameworks for our
 enterprise and utility projects:
 
